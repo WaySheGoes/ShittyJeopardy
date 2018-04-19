@@ -1,0 +1,2 @@
+# ShittyJeopardy
+Jeopardy but shitty
