@@ -1,0 +1,123 @@
+<questions>
+	<question>
+		<category>Cananda</category>
+		<value>$2</value>
+		<text>What city is the capital of Canada?</text>
+		<answerA>Calgary</answerA>
+		<answerB>Ottawa</answerB>
+		<answerC>Barrie</answerC>
+		<answerD>Edmonton</answerD>
+		<correctAnswer>b</correctAnswer>
+	</question>
+	<question>
+		<category>Cananda</category>
+		<value>$4</value>
+		<text>In what year did Canada become a country?</text>
+		<answerA>1867</answerA>
+		<answerB>1832</answerB>
+		<answerC>1845</answerC>
+		<answerD>1789</answerD>
+		<correctAnswer>a</correctAnswer>
+	</question>
+	<question>
+		<category>Cananda</category>
+		<value>$6</value>
+		<text>How many times zones are in Canada?</text>
+		<answerA>Four</answerA>
+		<answerB>Five</answerB>
+		<answerC>Six</answerC>
+		<answerD>Seven</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Cananda</category>
+		<value>$8</value>
+		<text>What day is Thanksgiving celebrated in Canada?</text>
+		<answerA>The second Monday of Novemeber</answerA>
+		<answerB>The second Thursday of November</answerB>
+		<answerC>The second Monday of October</answerC>
+		<answerD>The second Thursday of October</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Cananda</category>
+		<value>$10</value>
+		<text>Canada's highest mountain is located in which province or territory?</text>
+		<answerA>British Columbia</answerA>
+		<answerB>Nova Scotia</answerB>
+		<answerC>Manitoba</answerC>
+		<answerD>Yukon</answerD>
+		<correctAnswer>d</correctAnswer>
+	</question>
+	<!-- Next Question -->
+	<question>
+		<category>Dog</category>
+		<value>$15</value>
+		<text>Canada is made up of how many provinces?</text>
+		<answerA>7</answerA>
+		<answerB>8</answerB>
+		<answerC>10</answerC>
+		<answerD>11</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+		<question>
+		<category>Dog</category>
+		<value>$2</value>
+		<text>The Chihuahua is a breed of dog believed to originate from what country?</text>
+		<answerA>Calgary</answerA>
+		<answerB>Ottawa</answerB>
+		<answerC>Barrie</answerC>
+		<answerD>Edmonton</answerD>
+		<correctAnswer>b</correctAnswer>
+	</question>
+	<question>
+		<category>Dog</category>
+		<value>$4</value>
+		<text>In what year did Canada become a country?</text>
+		<answerA>1867</answerA>
+		<answerB>1832</answerB>
+		<answerC>1845</answerC>
+		<answerD>1789</answerD>
+		<correctAnswer>a</correctAnswer>
+	</question>
+	<question>
+		<category>Dog</category>
+		<value>$6</value>
+		<text>How many times zones are in Canada?</text>
+		<answerA>Four</answerA>
+		<answerB>Five</answerB>
+		<answerC>Six</answerC>
+		<answerD>Seven</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Dog</category>
+		<value>$8</value>
+		<text>What day is Thanksgiving celebrated in Canada?</text>
+		<answerA>The second Monday of Novemeber</answerA>
+		<answerB>The second Thursday of November</answerB>
+		<answerC>The second Monday of October</answerC>
+		<answerD>The second Thursday of October</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Dog</category>
+		<value>$10</value>
+		<text>Canada's highest mountain is located in which province or territory?</text>
+		<answerA>British Columbia</answerA>
+		<answerB>Nova Scotia</answerB>
+		<answerC>Manitoba</answerC>
+		<answerD>Yukon</answerD>
+		<correctAnswer>d</correctAnswer>
+	</question>
+	<question>
+		<category>Dog</category>
+		<value>$15</value>
+		<text>Canada is made up of how many provinces?</text>
+		<answerA>7</answerA>
+		<answerB>8</answerB>
+		<answerC>10</answerC>
+		<answerD>11</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+</questions>
