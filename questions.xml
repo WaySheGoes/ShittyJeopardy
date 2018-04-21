@@ -64,60 +64,300 @@
 		<category>Dog</category>
 		<value>$2</value>
 		<text>The Chihuahua is a breed of dog believed to originate from what country?</text>
-		<answerA>Calgary</answerA>
-		<answerB>Ottawa</answerB>
-		<answerC>Barrie</answerC>
-		<answerD>Edmonton</answerD>
+		<answerA>Russia</answerA>
+		<answerB>Mexico</answerB>
+		<answerC>Spain</answerC>
+		<answerD>Portugal</answerD>
 		<correctAnswer>b</correctAnswer>
 	</question>
 	<question>
 		<category>Dog</category>
 		<value>$4</value>
-		<text>In what year did Canada become a country?</text>
-		<answerA>1867</answerA>
-		<answerB>1832</answerB>
-		<answerC>1845</answerC>
-		<answerD>1789</answerD>
+		<text>The dingo is a free ranging dog found mainly in which country?</text>
+		<answerA>Australia</answerA>
+		<answerB>Mexico</answerB>
+		<answerC>France</answerC>
+		<answerD>New Zealand</answerD>
 		<correctAnswer>a</correctAnswer>
 	</question>
 	<question>
 		<category>Dog</category>
 		<value>$6</value>
-		<text>How many times zones are in Canada?</text>
-		<answerA>Four</answerA>
-		<answerB>Five</answerB>
-		<answerC>Six</answerC>
-		<answerD>Seven</answerD>
-		<correctAnswer>c</correctAnswer>
+		<text>What dog breed native to Japan has a name that translates to “little brushwood dog”?</text>
+		<answerA>Chihuahua</answerA>
+		<answerB>Shiba Inu</answerB>
+		<answerC>Pit Bull</answerC>
+		<answerD>Corgi</answerD>
+		<correctAnswer></correctAnswer>
 	</question>
 	<question>
 		<category>Dog</category>
 		<value>$8</value>
-		<text>What day is Thanksgiving celebrated in Canada?</text>
-		<answerA>The second Monday of Novemeber</answerA>
-		<answerB>The second Thursday of November</answerB>
-		<answerC>The second Monday of October</answerC>
-		<answerD>The second Thursday of October</answerD>
+		<text>A puggle is a cross between which two dog breeds?</text>
+		<answerA>Two black labs</answerA>
+		<answerB>Great Dane and Chihuahua</answerB>
+		<answerC>A pug and a beagle</answerC>
+		<answerD>A pug and a bagle</answerD>
 		<correctAnswer>c</correctAnswer>
 	</question>
 	<question>
 		<category>Dog</category>
 		<value>$10</value>
-		<text>Canada's highest mountain is located in which province or territory?</text>
-		<answerA>British Columbia</answerA>
-		<answerB>Nova Scotia</answerB>
-		<answerC>Manitoba</answerC>
-		<answerD>Yukon</answerD>
+		<text>In the United States which breed of dog is commonly known as a firehouse dog?</text>
+		<answerA>Blood Hound</answerA>
+		<answerB>Chihuahua</answerB>
+		<answerC>German Shepherd</answerC>
+		<answerD>Dalmation</answerD>
 		<correctAnswer>d</correctAnswer>
 	</question>
 	<question>
 		<category>Dog</category>
 		<value>$15</value>
-		<text>Canada is made up of how many provinces?</text>
-		<answerA>7</answerA>
-		<answerB>8</answerB>
-		<answerC>10</answerC>
-		<answerD>11</answerD>
+		<text>How many chambers are there in a dog’s heart?</text>
+		<answerA>3</answerA>
+		<answerB>4</answerB>
+		<answerC>5</answerC>
+		<answerD>6</answerD>
 		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>'Murica</category>
+		<value>$2</value>
+		<text>During the 1980s for six consecutive years what breed of dog was the most popular in the U.S.?</text>
+		<answerA>cocker spaniel</answerA>
+		<answerB>German shepherd</answerB>
+		<answerC>poodle</answerC>
+		<answerD>Labrador retriever</answerD>
+		<correctAnswer>a</correctAnswer>
+	</question>
+	<question>
+		<category>'Murica</category>
+		<value>$4</value>
+		<text>When did the Liberty Bell get its name?</text>
+		<answerA>in the 19th century, when it became a symbol of the abolition of slavery</answerA>
+		<answerB>when it rang on July 4, 1776</answerB>
+		<answerC>when it was made, in 1701</answerC>
+		<answerD>none of the above</answerD>
+		<correctAnswer>a</correctAnswer>
+	</question>
+	<question>
+		<category>'Murica</category>
+		<value>$6</value>
+		<text>Who is third behind Hank Aaron and Babe Ruth in major league career home runs?</text>
+		<answerA>Reggie Jackson</answerA>
+		<answerB>Willie Mays</answerB>
+		<answerC>Frank Robinson</answerC>
+		<answerD>Harmon Killebrew</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>'Murica</category>
+		<value>$8</value>
+		<text>Before becoming George Bush's Secretary of Defense, what was Dick Cheney's position?</text>
+		<answerA>congressman from Wyoming</answerA>
+		<answerB>governor of New Hampshire</answerB>
+		<answerC>secretary of defense under Ronald Reagan</answerC>
+		<answerD>First Lady Bush's backdoor man</answerD>
+		<correctAnswer>a</correctAnswer>
+	</question>
+	<question>
+		<category>'Murica</category>
+		<value>$10</value>
+		<text>What did the "D" in "D-Day" stand for?</text>
+		<answerA>doom</answerA>
+		<answerB>day</answerB>
+		<answerC>Dwight (Eisenhower)</answerC>
+		<answerD>Dunkirk</answerD>
+		<correctAnswer>b</correctAnswer>
+	</question>
+	<question>
+		<category>'Murica</category>
+		<value>$15</value>
+		<text>In 1985, five percent of U.S. households had telephone answering machines. By 1990 what percentage of homes had answering machines?</text>
+		<answerA>10 percent</answerA>
+		<answerB>15 percent</answerB>
+		<answerC>31 percent</answerC>
+		<answerD>51 percent</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Lord of the Rings</category>
+		<value>$2</value>
+		<text>Who gave the Ring of Fire, Narya, to Gandalf?</text>
+		<answerA>Elrond</answerA>
+		<answerB>Círdan</answerB>
+		<answerC>Gil-Galad</answerC>
+		<answerD>Elrohir</answerD>
+		<correctAnswer>b</correctAnswer>
+	</question>
+	<question>
+		<category>Lord of the Rings</category>
+		<value>$4</value>
+		<text>Where did Arwen and Aragorn pledge their love and accept the Doom of Men?</text>
+		<answerA>Cerin Amroth</answerA>
+		<answerB>The garden of Elrond</answerB>
+		<answerC>Caras Galadhon</answerC>
+		<answerD>Dol Guldor</answerD>
+		<correctAnswer>a</correctAnswer>
+	</question>
+	<question>
+		<category>Lord of the Rings</category>
+		<value>$6</value>
+		<text>What did Faramir give to Frodo and Sam at their parting?</text>
+		<answerA>Warm cloaks</answerA>
+		<answerB>Walking staffs</answerB>
+		<answerC>A map</answerC>
+		<answerD>A flask of miruvor</answerD>
+		<correctAnswer>b</correctAnswer>
+	</question>
+	<question>
+		<category>Lord of the Rings</category>
+		<value>$8</value>
+		<text>While Frodo, Sam and Pippin were travelling to Crickhollow, what passed them by as they slept?</text>
+		<answerA>Elves</answerA>
+		<answerB>A fox</answerB>
+		<answerC>A rabbit</answerC>
+		<answerD>A Black Rider</answerD>
+		<correctAnswer>b</correctAnswer>
+	</question>
+	<question>
+		<category>Lord of the Rings</category>
+		<value>$10</value>
+		<text>What did Aragorn need to secure before Elrond would give him his daughter?</text>
+		<answerA>Minas Tirith</answerA>
+		<answerB>A sapling of the line of Nimroth</answerB>
+		<answerC>The kingship of Gondor and Arnor</answerC>
+		<answerD>The sceptre of Annuminas</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Lord of the Rings</category>
+		<value>$15</value>
+		<text>Under what name did Aragorn serve Ecthelion II, steward of Gondor?</text>
+		<answerA>Strider</answerA>
+		<answerB>Thengel</answerB>
+		<answerC>Thorongil</answerC>
+		<answerD>Estel</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Understanding the Bible, 6th edition</category>
+		<value>$2</value>
+		<text>Baal's female consort was called:</text>
+		<answerA>cherubim</answerA>
+		<answerB>Asherah</answerB>
+		<answerC>Midian</answerC>
+		<answerD>Salem</answerD>
+		<correctAnswer>b</correctAnswer>
+	</question>
+	<question>
+		<category>Understanding the Bible, 6th edition</category>
+		<value>$4</value>
+		<text>In some of the earliest biblical poetry, Yahweh is depicted as</text>
+		<answerA>a divine lover</answerA>
+		<answerB>a warrior</answerB>
+		<answerC>a judge</answerC>
+		<answerD>the creator of the universe</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Understanding the Bible, 6th edition</category>
+		<value>$6</value>
+		<text>Which of these is the most common biblical term for God?</text>
+		<answerA>Yahweh</answerA>
+		<answerB>Elohim</answerB>
+		<answerC>El Shaddai</answerC>
+		<answerD>Jehovah</answerD>
+		<correctAnswer>b</correctAnswer>
+	</question>
+	<question>
+		<category>Understanding the Bible, 6th edition</category>
+		<value>$8</value>
+		<text>Mt Sinai is also known as</text>
+		<answerA>El Shaddai</answerA>
+		<answerB>Midian</answerB>
+		<answerC>Mt Horeb</answerC>
+		<answerD>Mt Zion</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Understanding the Bible, 6th edition</category>
+		<value>$10</value>
+		<text>What term is defined as "the belief in one god but acknowledging the existence of other gods"?</text>
+		<answerA>polytheism</answerA>
+		<answerB>monolatry</answerB>
+		<answerC>pantheon</answerC>
+		<answerD>henotheism</answerD>
+		<correctAnswer>d</correctAnswer>
+	</question>
+	<question>
+		<category>Understanding the Bible, 6th edition</category>
+		<value>$15</value>
+		<text>New Testament notions of God carried over from the Hebrew Bible do not include</text>
+		<answerA>God as holy being</answerA>
+		<answerB>god as judge</answerB>
+		<answerC>god as anthropomorphic</answerC>
+		<answerD>God as loving partner</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Geography</category>
+		<value>$2</value>
+		<text>One of the city's 44 hills, "Nob Hill" can be found in what US city?</text>
+		<answerA>Philadelphia</answerA>
+		<answerB>New Orleans</answerB>
+		<answerC>San Francisco</answerC>
+		<answerD>Los Angeles</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Geography</category>
+		<value>$4</value>
+		<text>What strait separates Alaska and Russia?</text>
+		<answerA>Bering Strait</answerA>
+		<answerB>Davis Strait</answerB>
+		<answerC>Bass Strait</answerC>
+		<answerD>Palk Strait</answerD>
+		<correctAnswer>a</correctAnswer>
+	</question>
+	<question>
+		<category>Geography</category>
+		<value>$6</value>
+		<text>Which European country is the most sparsely populated country in Europe?</text>
+		<answerA>Malta</answerA>
+		<answerB>Finland</answerB>
+		<answerC>Norway</answerC>
+		<answerD>Iceland</answerD>
+		<correctAnswer>d</correctAnswer>
+	</question>
+	<question>
+		<category>Geography</category>
+		<value>$8</value>
+		<text>Name the sea in which the "Volga River" flows into.</text>
+		<answerA>Mediterranean Sea</answerA>
+		<answerB>Caspian Sea</answerB>
+		<answerC>Black Sea</answerC>
+		<answerD>Red Sea</answerD>
+		<correctAnswer>b</correctAnswer>
+	</question>
+	<question>
+		<category>Geography</category>
+		<value>$10</value>
+		<text>What two bodies of water are connected by the "Suez Canal"?</text>
+		<answerA>Caspian Sea and Mediterranean Sea</answerA>
+		<answerB>Yellow Sea and Mediterranean Sea</answerB>
+		<answerC>Red Sea and Mediterranean Sea</answerC>
+		<answerD>Black Sea and Mediterranean Sea</answerD>
+		<correctAnswer>c</correctAnswer>
+	</question>
+	<question>
+		<category>Geography</category>
+		<value>$15</value>
+		<text>Name the South American country that has both an Atlantic and Pacific coastline.</text>
+		<answerA>Paraguay</answerA>
+		<answerB>Columbia</answerB>
+		<answerC>Brazil</answerC>
+		<answerD>Peru</answerD>
+		<correctAnswer>b</correctAnswer>
 	</question>
 </questions>
