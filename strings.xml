@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jeopardy</string>
+    <string name="one">100</string>
+    <string name="two">200</string>
+    <string name="three">300</string>
+    <string name="four">400</string>
+    <string name="five">500</string>
+</resources>
