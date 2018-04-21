@@ -1,4 +1,4 @@
-package edu.oswego.questionparser;
+package edu.oswego.jeopardy;
 
 public class Question {
     private String category;

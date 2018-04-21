@@ -1,4 +1,4 @@
-package edu.oswego.questionparser;
+package edu.oswego.jeopardy;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
