@@ -88,7 +88,7 @@
 		<answerB>Shiba Inu</answerB>
 		<answerC>Pit Bull</answerC>
 		<answerD>Corgi</answerD>
-		<correctAnswer></correctAnswer>
+		<correctAnswer>b</correctAnswer>
 	</question>
 	<question>
 		<category>Dog</category>
@@ -448,7 +448,7 @@
 		<answerB>Shiba Inu</answerB>
 		<answerC>Pit Bull</answerC>
 		<answerD>Corgi</answerD>
-		<correctAnswer></correctAnswer>
+		<correctAnswer>b</correctAnswer>
 	</question>
 	<question>
 		<category>Dog2</category>
