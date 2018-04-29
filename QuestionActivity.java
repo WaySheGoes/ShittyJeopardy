@@ -20,4 +20,22 @@ public class QuestionActivity extends AppCompatActivity {
         ArrayList<Question> q = intent.getParcelableArrayListExtra("questionsInGame");
         return q;
     }
+
+    private bindQuestion(int buttonCat,  int Num){
+    	int index = 0;
+    	switch(buttonCat){
+    		case 0: 
+    		break;
+    		case 1: index = 5;
+    		break;
+    		case 2: index = 11;
+    		break;
+    		case 3: index = 17;
+    		break;
+    		case 4: index = 23;
+    		break;
+    	}
+
+    	index += Num;
+    	//Retrieve Question at index Num and assign text to buttons
 }

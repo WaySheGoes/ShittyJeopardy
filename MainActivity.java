@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private final String XMLURL = "http://cs.oswego.edu/~awalts2/questions.xml";
 
     private final ArrayList<Question> questionsIngame = new ArrayList<>();
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 QuestionParser questionparser = new QuestionParser(XMLURL);
-                questionlist =questionparser.startParsing();
+                questionlist = questionparser.startParsing();
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
