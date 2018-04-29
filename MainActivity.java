@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
     private final String XMLURL = "http://cs.oswego.edu/~awalts2/questions.xml";
 
     private final ArrayList<Question> questionsIngame = new ArrayList<>();
-    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 QuestionParser questionparser = new QuestionParser(XMLURL);
-                questionlist = questionparser.startParsing();
+                questionlist =questionparser.startParsing();
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
@@ -95,10 +94,26 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void goToQuestion(View view){
-         
+        TextView t = (TextView) view;
+        Question q = new Question();
+        switch(t.getText().toString()){
+            case "one":
+                q = questionsIngame.get(0);
+                break;
+            case "two":
+                q = questionsIngame.get(1);
+            case "three":
+                q = questionsIngame.get(2);
+                break;
+            case "four":
+                q = questionsIngame.get(3);
+            case "five":
+                q = questionsIngame.get(4);
+                break; 
+        }
         Intent intent = new Intent(this, QuestionActivity.class);
         view.getContentDescription();
-        intent.putExtra("questionsInGame",questionsIngame);
+        intent.putExtra("questionInGame",q);
         startActivity(intent);
         Toast.makeText(this, "", Toast.LENGTH_LONG).show();
     }
