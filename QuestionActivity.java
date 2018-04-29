@@ -7,35 +7,33 @@ import android.os.Bundle;
 import java.util.ArrayList;
 
 public class QuestionActivity extends AppCompatActivity {
+	Question question = new Question();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_question2);
-    
+    	question = GetQuestion();
+    	bindQuestion();
     }
     
-    public ArrayList<Question> GetQestions(){
+    public ArrayList<Question> GetQuestion(){
         Intent intent = getIntent();
-        ArrayList<Question> q = intent.getParcelableArrayListExtra("questionsInGame");
+        Question q = intent.getParcelableArrayListExtra("questionInGame");
         return q;
     }
 
-    private bindQuestion(int buttonCat,  int Num){
-    	int index = 0;
-    	switch(buttonCat){
-    		case 0: 
-    		break;
-    		case 1: index = 5;
-    		break;
-    		case 2: index = 11;
-    		break;
-    		case 3: index = 17;
-    		break;
-    		case 4: index = 23;
-    		break;
-    	}
+    private void bindQuestion(){
+    	View question = findViewById(R.id.textView);
+		View answerA = findViewById(R.id.A);
+		View answerB = findViewById(R.id.B);
+		View answerC = findViewById(R.id.C);
+		View answerD = findViewById(R.id.D);
 
-    	index += Num;
-    	//Retrieve Question at index Num and assign text to buttons
+		question.setText = question.getQuestionText();
+		answerA.setText = question.getAnswerA();
+		answerB.setText = question.getAnswerB();
+		answerC.setText = question.getAnswerC();
+		answerD.setText = question.getAnswerD();
+    }
 }
