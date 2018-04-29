@@ -22,15 +22,19 @@
 	    	echo "Unsuccessful Connection <br>";
 	   	 	exit;
 	  	}
-	  	echo "successful connection";
+	  	echo "successful connection <br>";
 
-		$insertStatement = "INSERT INTO RoundStats (PlayerName, Score) VALUES ('Haroldine', '550')";
+		$selectStatement = "SELECT * FROM RoundStats";
+		$result = $link->query($selectStatement);
 
-		if($link->query($insertStatement) === TRUE){
-			echo "Record Creation Success";
-		}	else{
-			echo "Error: " .$link. "<br>" . $link->error;
+		if($result->num_rows > 0){
+			while($row = $result->fetch_assoc()){
+				echo "Player Name: " . $row["PlayerName"]. " Score: " .$row["Score"]. "<br>";
+			}
+		}else{
+			echo "No Results";
 		}
+		
 	 	mysqli_close($link);
 	?>
 </body>
